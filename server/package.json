@@ -1,0 +1,24 @@
+{
+  "name": "dataleakageprevention",
+  "version": "1.0.0",
+  "description": "Data Leakage Prevention Webapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tripathiaman2511/dlp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tripathiaman2511/dlp/issues"
+  },
+  "homepage": "https://github.com/Tripathiaman2511/dlp#readme",
+  "dependencies": {
+    "faker": "^6.6.6",
+    "maskdata": "^1.2.0"
+  }
+}
